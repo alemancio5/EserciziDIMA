@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "button_counter"
+		},
+		{
+			"path": "hello_world"
+		}
+	],
+	"settings": {}
+}
