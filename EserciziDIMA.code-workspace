@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "calculator"
+		},
+		{
+			"path": "login"
 		}
 	],
 	"settings": {}
